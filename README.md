@@ -71,3 +71,5 @@ This project is licensed under the MIT License.
 **Acknowledgments**
 OpenAI for providing the API for handling customer queries.
 Flask for the web framework.
+
+https://docs.google.com/presentation/d/1rVRmw0CkkFJVrHfXfynklBFBL2ZHYwLP5n0XhoRYm0s/edit?usp=sharing
